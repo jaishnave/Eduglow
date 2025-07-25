@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c1",
+    "blogId": "b1",
+    "userId": "u3",
+    "text": "Great intro!"
+  },
+  {
+    "id": "c2",
+    "blogId": "b2",
+    "userId": "u5",
+    "text": "Helpful tips!"
+  },
+  {
+    "id": "c3",
+    "blogId": "b3",
+    "userId": "u6",
+    "text": "Interesting read"
+  },
+  {
+    "id": "c4",
+    "blogId": "b4",
+    "userId": "u8",
+    "text": "Nice explanation"
+  },
+  {
+    "id": "c5",
+    "blogId": "b5",
+    "userId": "u3",
+    "text": "Loved the CSS tricks!"
+  },
+  {
+    "id": "c6",
+    "blogId": "b6",
+    "userId": "u10",
+    "text": "Need more examples"
+  },
+  {
+    "id": "c7",
+    "blogId": "b7",
+    "userId": "u6",
+    "text": "Great clarity!"
+  },
+  {
+    "id": "c8",
+    "blogId": "b8",
+    "userId": "u5",
+    "text": "Very engaging"
+  },
+  {
+    "id": "c9",
+    "blogId": "b9",
+    "userId": "u8",
+    "text": "Cool feature!"
+  },
+  {
+    "id": "c10",
+    "blogId": "b10",
+    "userId": "u3",
+    "text": "What about offline mode?"
+  }
+]

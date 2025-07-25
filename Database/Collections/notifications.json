@@ -1,0 +1,62 @@
+[
+  {
+    "id": "n1",
+    "userId": "u3",
+    "type": "comment_reply",
+    "message": "You got a reply on your comment!"
+  },
+  {
+    "id": "n2",
+    "userId": "u5",
+    "type": "like",
+    "message": "Your comment received a like."
+  },
+  {
+    "id": "n3",
+    "userId": "u2",
+    "type": "new_follower",
+    "message": "You have a new follower."
+  },
+  {
+    "id": "n4",
+    "userId": "u7",
+    "type": "blog_approved",
+    "message": "Your blog has been published."
+  },
+  {
+    "id": "n5",
+    "userId": "u4",
+    "type": "badge_award",
+    "message": "You earned the Silver badge!"
+  },
+  {
+    "id": "n6",
+    "userId": "u9",
+    "type": "admin_report",
+    "message": "Daily analytics report is ready."
+  },
+  {
+    "id": "n7",
+    "userId": "u1",
+    "type": "user_flagged",
+    "message": "User u10 flagged a post."
+  },
+  {
+    "id": "n8",
+    "userId": "u10",
+    "type": "comment_reply",
+    "message": "Someone replied to your comment."
+  },
+  {
+    "id": "n9",
+    "userId": "u6",
+    "type": "level_up",
+    "message": "You reached level 2!"
+  },
+  {
+    "id": "n10",
+    "userId": "u8",
+    "type": "leaderboard_update",
+    "message": "You're now in Top 10!"
+  }
+]

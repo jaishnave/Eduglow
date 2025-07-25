@@ -1,0 +1,62 @@
+[
+  {
+    "id": "l1",
+    "userId": "u2",
+    "points": 50,
+    "rank": 3
+  },
+  {
+    "id": "l2",
+    "userId": "u4",
+    "points": 85,
+    "rank": 2
+  },
+  {
+    "id": "l3",
+    "userId": "u7",
+    "points": 70,
+    "rank": 4
+  },
+  {
+    "id": "l4",
+    "userId": "u9",
+    "points": 120,
+    "rank": 1
+  },
+  {
+    "id": "l5",
+    "userId": "u1",
+    "points": 100,
+    "rank": 5
+  },
+  {
+    "id": "l6",
+    "userId": "u3",
+    "points": 20,
+    "rank": 9
+  },
+  {
+    "id": "l7",
+    "userId": "u5",
+    "points": 15,
+    "rank": 10
+  },
+  {
+    "id": "l8",
+    "userId": "u6",
+    "points": 35,
+    "rank": 8
+  },
+  {
+    "id": "l9",
+    "userId": "u8",
+    "points": 40,
+    "rank": 7
+  },
+  {
+    "id": "l10",
+    "userId": "u10",
+    "points": 69,
+    "rank": 6
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gold",
+    "name": "Gold Badge",
+    "criteria": "80+ points"
+  },
+  {
+    "id": "silver",
+    "name": "Silver Badge",
+    "criteria": "50-79 points"
+  },
+  {
+    "id": "bronze",
+    "name": "Bronze Badge",
+    "criteria": "20-49 points"
+  },
+  {
+    "id": "platinum",
+    "name": "Platinum Badge",
+    "criteria": "100+ points"
+  },
+  {
+    "id": "starter",
+    "name": "Starter",
+    "criteria": "Signed up"
+  },
+  {
+    "id": "contributor",
+    "name": "Contributor",
+    "criteria": "Published 1 blog"
+  },
+  {
+    "id": "critic",
+    "name": "Critic",
+    "criteria": "Made 10 comments"
+  },
+  {
+    "id": "reader",
+    "name": "Reader",
+    "criteria": "Read 5 blogs"
+  },
+  {
+    "id": "interactive",
+    "name": "Interactive",
+    "criteria": "Liked 10 blogs"
+  },
+  {
+    "id": "author_star",
+    "name": "Author Star",
+    "criteria": "Got 100 views"
+  }
+]

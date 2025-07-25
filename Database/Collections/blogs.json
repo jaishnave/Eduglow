@@ -1,0 +1,93 @@
+[
+  {
+    "id": "b1",
+    "title": "Intro to AI",
+    "authorId": "u2",
+    "tags": [
+      "AI",
+      "Basics"
+    ],
+    "views": 100
+  },
+  {
+    "id": "b2",
+    "title": "React Hooks",
+    "authorId": "u4",
+    "tags": [
+      "React"
+    ],
+    "views": 85
+  },
+  {
+    "id": "b3",
+    "title": "Gamification 101",
+    "authorId": "u2",
+    "tags": [
+      "UX"
+    ],
+    "views": 40
+  },
+  {
+    "id": "b4",
+    "title": "JWT Auth",
+    "authorId": "u7",
+    "tags": [
+      "Auth"
+    ],
+    "views": 67
+  },
+  {
+    "id": "b5",
+    "title": "CSS Tricks",
+    "authorId": "u4",
+    "tags": [
+      "CSS"
+    ],
+    "views": 90
+  },
+  {
+    "id": "b6",
+    "title": "MongoDB Aggregation",
+    "authorId": "u2",
+    "tags": [
+      "DB"
+    ],
+    "views": 75
+  },
+  {
+    "id": "b7",
+    "title": "Node Middleware",
+    "authorId": "u7",
+    "tags": [
+      "Node"
+    ],
+    "views": 82
+  },
+  {
+    "id": "b8",
+    "title": "Leaderboard Systems",
+    "authorId": "u4",
+    "tags": [
+      "Gamification"
+    ],
+    "views": 95
+  },
+  {
+    "id": "b9",
+    "title": "Dark Mode UI",
+    "authorId": "u2",
+    "tags": [
+      "UI"
+    ],
+    "views": 62
+  },
+  {
+    "id": "b10",
+    "title": "PWA Basics",
+    "authorId": "u7",
+    "tags": [
+      "PWA"
+    ],
+    "views": 47
+  }
+]

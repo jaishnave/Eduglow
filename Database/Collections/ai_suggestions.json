@@ -1,0 +1,82 @@
+[
+  {
+    "id": "s1",
+    "userId": "u3",
+    "suggestedBlogs": [
+      "b2",
+      "b5"
+    ]
+  },
+  {
+    "id": "s2",
+    "userId": "u5",
+    "suggestedBlogs": [
+      "b3",
+      "b6"
+    ]
+  },
+  {
+    "id": "s3",
+    "userId": "u6",
+    "suggestedBlogs": [
+      "b1",
+      "b8"
+    ]
+  },
+  {
+    "id": "s4",
+    "userId": "u8",
+    "suggestedBlogs": [
+      "b9",
+      "b10"
+    ]
+  },
+  {
+    "id": "s5",
+    "userId": "u10",
+    "suggestedBlogs": [
+      "b4",
+      "b7"
+    ]
+  },
+  {
+    "id": "s6",
+    "userId": "u2",
+    "suggestedBlogs": [
+      "b1",
+      "b6"
+    ]
+  },
+  {
+    "id": "s7",
+    "userId": "u4",
+    "suggestedBlogs": [
+      "b3",
+      "b5"
+    ]
+  },
+  {
+    "id": "s8",
+    "userId": "u7",
+    "suggestedBlogs": [
+      "b8",
+      "b9"
+    ]
+  },
+  {
+    "id": "s9",
+    "userId": "u1",
+    "suggestedBlogs": [
+      "b10",
+      "b2"
+    ]
+  },
+  {
+    "id": "s10",
+    "userId": "u9",
+    "suggestedBlogs": [
+      "b1",
+      "b4"
+    ]
+  }
+]

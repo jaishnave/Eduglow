@@ -1,0 +1,72 @@
+[
+  {
+    "id": "u1",
+    "name": "Alice",
+    "role": "admin",
+    "points": 100,
+    "badge": "Gold"
+  },
+  {
+    "id": "u2",
+    "name": "Bob",
+    "role": "author",
+    "points": 50,
+    "badge": "Silver"
+  },
+  {
+    "id": "u3",
+    "name": "Charlie",
+    "role": "reader",
+    "points": 20,
+    "badge": "Bronze"
+  },
+  {
+    "id": "u4",
+    "name": "Dana",
+    "role": "author",
+    "points": 85,
+    "badge": "Gold"
+  },
+  {
+    "id": "u5",
+    "name": "Eve",
+    "role": "reader",
+    "points": 15,
+    "badge": "None"
+  },
+  {
+    "id": "u6",
+    "name": "Frank",
+    "role": "reader",
+    "points": 35,
+    "badge": "Bronze"
+  },
+  {
+    "id": "u7",
+    "name": "Grace",
+    "role": "author",
+    "points": 70,
+    "badge": "Silver"
+  },
+  {
+    "id": "u8",
+    "name": "Heidi",
+    "role": "reader",
+    "points": 40,
+    "badge": "Bronze"
+  },
+  {
+    "id": "u9",
+    "name": "Ivan",
+    "role": "admin",
+    "points": 120,
+    "badge": "Platinum"
+  },
+  {
+    "id": "u10",
+    "name": "Judy",
+    "role": "reader",
+    "points": 25,
+    "badge": "None"
+  }
+]
